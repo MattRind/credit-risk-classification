@@ -1,1 +1,2 @@
 # credit-risk-classification
+This repo contains one folder in which there is one jupyter notebook and one subfolder containing a `csv` file/data, besides this markdown file. A jupyter notebook template was originally provided, which I followed in order to answer the questions. All code was written by me (code for 'importing the modules' in the first cell was provided).
